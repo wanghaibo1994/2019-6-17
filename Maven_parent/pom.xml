@@ -18,7 +18,7 @@
     <properties>
         <spring.version>5.0.5.RELEASE</spring.version>
         <springmvc.version>5.0.5.RELEASE</springmvc.version>
-        <mybatis.version>3.4.5</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
     </properties>
     <!--锁定jar版本-->
     <dependencyManagement>
